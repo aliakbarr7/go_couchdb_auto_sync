@@ -1,4 +1,4 @@
-# Example Code CRUD menggunakan CouchDB
+# Example CRUD - CouchDB
 
 ## Program ini merupakan contoh implementasi CRUD menggunakan CouchDB, dengan fitur utama sinkronisasi otomatis antar node.
 
